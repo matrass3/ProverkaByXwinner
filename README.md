@@ -14,7 +14,7 @@
 9. [Проверка YouTube](#9-проверка-youtube)
 10. [Реестр Windows](#10-реестр-windows)
 11. [Отчеты об ошибках (Crash Reports)](#11-отчеты-об-ошибках-crash-reports)
-12. [Journal Trace (Продвинутый анализ)](#12-journal-trace-продвинутый-анализ)
+12. [Journal Trace](#12-journal-trace-продвинутый-анализ)
 
 ---
 
